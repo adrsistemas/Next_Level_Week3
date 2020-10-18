@@ -2,9 +2,7 @@
 
 # APP - Happy
 
-#Projeto Desenvolvido durante a NextLevelWeek 3 da Rocketseat
-
-#Projeto Happy
+# Projeto Desenvolvido durante a Next Level Week 3 da Rocketseat Trilha Discovery - by Mayk Brito
 
 O Projeto Happy é uma aplicação que tem a intenção de ajudar e incentivar pessoas a visitarem orfanatos em suas regiões. Utilizando GeoLocalização interativa no Google Maps com API Leaflet.
 
@@ -32,7 +30,7 @@ Tempo estimado de Desenvolvimento 5 dias. Aproximadamente 2h/dia.
 `git clone https://github.com/adrsistemas/Next_Level_Week3.git`
 
 2. Entre na pasta
-`cd NLW`
+`cd Next_Level_Week3`
 
 3. Instalações necessárias:
  `NodeJs LTS, Yarn(Recomendado), `
